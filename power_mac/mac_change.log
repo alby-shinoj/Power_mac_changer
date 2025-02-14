@@ -1,0 +1,18 @@
+2025-01-31 15:18:33,474 - ERROR - This script requires root privileges. Please run with sudo.
+2025-01-31 15:18:55,227 - INFO - Backed up MAC address 00:15:5d:6d:90:61 to eth0_mac_backup.txt.
+2025-01-31 15:19:59,553 - INFO - MAC address changed to 00:BE:43:8D:E4:C9 on eth0.
+2025-01-31 15:33:09,848 - INFO - MAC address changed to 00:15:5d:6d:90:61 on eth0.
+2025-01-31 15:33:09,849 - INFO - Restored MAC address to 00:15:5d:6d:90:61 on eth0.
+2025-01-31 18:03:41,280 - ERROR - This script requires root privileges. Please run with sudo.
+2025-01-31 18:04:10,786 - INFO - Backed up MAC address 00:15:5d:33:75:f2 to eth0_mac_backup.txt.
+2025-01-31 18:04:10,805 - INFO - MAC address changed to 00:BE:43:8D:E4:C9 on eth0.
+2025-01-31 18:04:26,608 - INFO - MAC address changed to 00:15:5d:33:75:f2 on eth0.
+2025-01-31 18:04:26,608 - INFO - Restored MAC address to 00:15:5d:33:75:f2 on eth0.
+2025-02-05 12:57:42,126 - INFO - Backed up MAC address 00:15:5d:33:7a:24 to eth0_mac_backup.txt.
+2025-02-05 12:57:42,179 - INFO - MAC address changed to 00:BE:43:8D:E4:C9 on eth0.
+2025-02-05 12:59:02,988 - INFO - MAC address changed to 00:15:5d:33:7a:24 on eth0.
+2025-02-05 12:59:02,988 - INFO - Restored MAC address to 00:15:5d:33:7a:24 on eth0.
+2025-02-05 18:06:16,506 - INFO - Backed up MAC address 00:15:5d:33:7d:b2 to eth0_mac_backup.txt.
+2025-02-05 18:06:16,535 - INFO - MAC address changed to 00:BE:43:8D:E4:C9 on eth0.
+2025-02-05 18:13:48,285 - INFO - MAC address changed to 00:15:5d:33:7d:b2 on eth0.
+2025-02-05 18:13:48,285 - INFO - Restored MAC address to 00:15:5d:33:7d:b2 on eth0.
